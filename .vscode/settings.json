@@ -1,0 +1,7 @@
+{
+  "python.languageServer": "Pylance",
+  "python.defaultInterpreterPath": "C:/Users/NEETHEESWARAN/Git/MLprojects/venv/python.exe",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.useLibraryCodeForTypes": true
+}
